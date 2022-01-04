@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import './../node_modules/sweetalert/dist/sweetalert.css';
+import './../node_moduless/sweetalert/dist/sweetalert.css';
 
 ReactDOM.render(
   <React.StrictMode>
